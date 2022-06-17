@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bootES",
+    "oncran": true
+  },
+  {
+    "package": "portfolio",
+    "oncran": true
+  }
+]
