@@ -1,5 +1,9 @@
 [
   {
+    "package": "backtest",
+    "oncran": true
+  },
+  {
     "package": "bootES",
     "oncran": true
   },
